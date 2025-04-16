@@ -1,4 +1,4 @@
-# Vehicle Safety System
+# Car Parking System
 
 This project is a simple vehicle safety system prototype using a microcontroller, ultrasonic sensor, buzzer, joystick (for drive simulation), switches (for key and seatbelt simulation), and LEDs for visual output.
 
