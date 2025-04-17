@@ -84,5 +84,5 @@ The firmware includes:
 - Introduce **GPS** or **GSM modules** for real-time alerts.
 
 ---
-
-Feel free to tweak and add details based on your preferences before uploading it to GitHub! 🚗✨
+## Contributors
+Dipti Khairkar , Neeraj Chhajed, Shreya Ingole, Ruturaj Nimkar, Jaychandra Nagabandi.
