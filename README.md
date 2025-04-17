@@ -85,4 +85,8 @@ The firmware includes:
 
 ---
 ## Contributors
-Dipti Khairkar , Neeraj Chhajed, Shreya Ingole, Ruturaj Nimkar, Jaychandra Nagabandi.
+- Dipti Khairkar
+- Neeraj Chhajed
+- Shreya Ingole
+- Ruturaj Nimkar
+- Jaychandra Nagabandi
